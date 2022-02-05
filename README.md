@@ -4,7 +4,7 @@ Project Info and features:
 1. Redux- for state management.
 2. Typescript- for type safety.
 3. React navigation- for navigating between screens.
-4. React native async storage
+4. React native async storage--  for storing login info.If user is logged in next time , directly navigate hime to homescreen
 5. React native picker
 6. i18 next- for language change feature (English , Hindi, Marathi)
 7. Axios-For api call

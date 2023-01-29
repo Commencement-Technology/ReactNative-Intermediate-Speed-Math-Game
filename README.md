@@ -1,5 +1,7 @@
 # Speed-Math-Game
 
+DEMO VIDEO - https://drive.google.com/file/d/1Nc_lDcnT2uEYT-2Qbu9aacgtEGf8QOkn/view
+
 Project Info and features:
 1. Redux- for state management.
 2. Typescript- for type safety.
